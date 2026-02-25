@@ -1,6 +1,6 @@
 # 📝 NoteAppCoreData
 
-![iOS CI](https://github.com/Navin-Rai-Developer/NoteAppCoreData/actions/workflows/ios.yml/badge.svg)
+![iOS CI](https://github.com/Navin-Rai-Developer/NoteAppCoreData/actions/workflows/main.yml/badge.svg)
 
 Offline-first iOS Notes application built using Swift, SwiftUI, and Core Data.  
 The app works seamlessly without internet and automatically syncs when online.
